@@ -90,3 +90,11 @@ h2 {
     justify-content: center;
     align-items: center;
 }
+
+.about__img--wrapper {
+    width: 40%;
+}
+
+img {
+    width: 100
+}
